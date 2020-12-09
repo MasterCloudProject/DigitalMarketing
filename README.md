@@ -4,7 +4,7 @@
 ## Course: Cloud Technologies
 ## Professor Sanjay Garje https://www.linkedin.com/in/sanjaygarje 
 ## Student: 
-## Anupama Kurudi -
+## Anupama Kurudi - https://www.linkedin.com/in/anupamakn/
 ## Gunjan Srivastava - https://www.linkedin.com/in/gunjan-android
 ## Babu Rajendran - https://www.linkedin.com/in/baburajendran
 ## Shivam Tomar - [LinkedIn](https://www.linkedin.com/in/shivam-tomar/)
